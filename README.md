@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @BaptisteHugot
-- 👀 I’m interested in computer science and I develop mainly using Dart and Flutter
-- 📫 You can reach me on Twitter or on LinkedIn (see above)
+- 👨‍💼 Regulate voice & SMS/MMS interconnections ; reduce frauds from PRS & DQ numbers ; stop PSTN & ISDN networks
+- 📌 Paris, France
+- 💻 C ; C++ ; Dart/Flutter ; HTML/CSS ; PHP ; SQL
+- 🌐 [Personal website](https://www.baptistehugot.com) ; [GitHub](https://baptistehugot.github.io)
+- 🐦 [@BaptisteHugot](https://twitter.com/BaptisteHugot)
+- ❤️ Open source
+- 📫 You can reach me on Twitter (see above)
 
 <!---
 BaptisteHugot/BaptisteHugot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
