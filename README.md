@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaptisteHugot
 - 👨‍💼 Regulate voice & SMS/MMS interconnections ; reduce frauds from PRS & DQ numbers ; stop PSTN & ISDN networks
 - 📌 Paris, France
-- 💻 C ; C++ ; Dart/Flutter ; HTML/CSS ; PHP ; SQL
+- 💻 C ; C++ ; Java ; Dart/Flutter ; HTML/CSS ; PHP ; SQL ; Python
 - 🌐 [Personal website](https://www.baptistehugot.com) ; [GitHub](https://baptistehugot.github.io)
 - 🐦 [@BaptisteHugot](https://twitter.com/BaptisteHugot)
 - ❤️ Open source
