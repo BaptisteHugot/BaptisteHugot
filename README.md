@@ -3,7 +3,7 @@
 - 📌 Paris, France
 - 💻 C ; C++ ; Java ; Dart/Flutter ; HTML/CSS ; PHP ; SQL ; Python
 - 🌐 [Personal website](https://www.baptistehugot.com) ; [GitHub](https://baptistehugot.github.io)
-- 🐦 [@BaptisteHugot](https://twitter.com/BaptisteHugot)
+- 🐦 [@BaptisteHugot](https://bsky.app/profile/baptistehugot.com)
 - ❤️ Open source
 - 📫 You can reach me on Twitter (see above)
 
